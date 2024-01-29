@@ -1,0 +1,198 @@
+Overall rank,Institution,location code,Academic Reputation,Academic Reputation rank,Employer Reputation,Employer Reputation rank,Faculty Student,Faculty Student rank,Citations per Faculty,Citations per Faculty rank,Internatonal Faculty,Internatonal Faculty rank,International Students,International Students rank,International Research Network,International Research Network rank,Employment Outcomes,Employment Outcomes rank,Overall,UNITID,IALIAS,ADDR,CITY,longitude,latitude,DFRCGID,DFRCUSCG
+1,Massachusetts Institute of Technology (MIT),US,100,5,100,4,100,14,100,5,100,54,90,109,96.1,58,100,3,100,166683,"MIT, M.I.T.",77 Massachusetts Avenue,Cambridge,-71.093226,42.359243,94,1
+3,Stanford University,US,100,4,100,5,100,6,99.9,9,99.8,74,60.3,235,96.3,55,100,2,98.5,243744, , ,Stanford,-122.167359,37.429434,94,1
+5,Harvard University,US,100,1,100,1,99.4,35,100,2,76.9,228,66.9,212,100,1,100,1,97.6,166027, ,Massachusetts Hall,Cambridge,-71.118313,42.374471,94,1
+6,California Institute of Technology (Caltech),US,96.5,28,87.1,58,100,3,100,4,99.8,75,85.1,134,73,425,98.8,24,97,110404,Caltech,1200 E California Blvd,Pasadena,-118.125878,34.137349,94,1
+10,The University of Chicago,US,99.2,16,92.2,46,92.9,71,86.8,79,81.6,214,76,176,89.6,170,98.2,30,93.2,144050, ,5801 S Ellis Ave,Chicago,-87.599539,41.787994,94,1
+13,"University of Pennsylvania,UPenn",US,96.5,29,92.5,45,99.9,23,70.9,142,96.2,128,66.1,215,93.3,104,100,5,90.6,215062,"Penn, U of PA, U-Penn, U of P, Pennsylvania, UPenn, Pennsylvania University, University of Pennsylvania, Wharton, Wharton School of Business",34th & Spruce Street,Philadelphia,-75.19391,39.950929,94,1
+17,Princeton University,US,99.9,10,98.9,14,72.6,172,100,3,26,515,62.2,226,78.5,340,100,8,89.2,186131, ,1 Nassau Hall,Princeton,-74.659365,40.348732,94,2
+18,Yale University,US,99.9,9,100,7,100,2,51.5,249,89.2,179,77.3,165,92,123,100,4,89,130794, ,Woodbridge Hall,New Haven,-72.926688,41.311158,94,1
+20,Cornell University,US,98.3,23,91.4,50,62.2,245,99.3,17,63.9,290,55.3,256,90,161,99.5,19,87.2,190415, ,300 Day Hall,Ithaca,-76.483084,42.4472,94,1
+22,Columbia University,US,99.7,11,98.1,20,100,12,47.2,282,47.6,369,94.6,85,98.9,14,99.8,11,86.7,190150,Columbia University,West 116 St and Broadway,New York,-73.961885,40.808286,94,2
+24,Johns Hopkins University,US,87.9,49,47.2,198,100,5,87.3,76,63.6,294,82.9,145,97.7,27,95.3,42,85.1,162928,Johns Hopkins,3400 N Charles St,Baltimore,-76.621595,39.328977,94,1
+25,University of Michigan,US,98.5,22,91.3,52,88.9,92,62.5,190,71.2,253,33.1,404,96.3,52,96,40,84.4,170976,U of Michigan|U of M|Univ of Michigan|U Michigan Ann Arbor|University of Michigan Ann Arbor,503 Thompson Street,Ann Arbor,-83.742769,42.275921,91,1
+27,"University of California, Berkeley ",US,100,6,100,6,23.9,599,99.9,10,93.3,155,57.7,248,96.7,45,99.1,21,82.7,110635,UC Berkeley,200 California Hall,Berkeley,-122.260463,37.871918,91,2
+32,"University of Southern California,USC(IEEUC)",US,84.4,56,71.9,92,98.3,45,84.2,95,40.5,401,38.8,351,89,183,98.4,29,81.8,147767, ,633 Clark St,Evanston,-87.679858,42.050356,94,1
+39,New York University,US,95.9,32,99,13,98.1,48,28.9,440,31.3,463,94.4,87,92,122,99.7,13,80.3,193900, ,70 Washington Sq South,New York,-73.997264,40.729452,94,1
+44,"University of California, Los Angeles (UCLA)",US,100,8,99.9,8,37.7,410,85.9,87,45.1,377,27.5,450,96.3,53,98,31,78.7,110662,UCLA,405 Hilgard Ave,Los Angeles,-118.442179,34.07178,91,2
+50,Duke University,US,86.1,53,79.8,71,100,10,41.2,345,20.2,581,55.1,257,95.5,63,98.6,27,74.8,198419, ,103 Allen Bldg,Durham,-78.937624,36.001135,94,2
+52,Carnegie Mellon University (CMU),US,72.1,83,69,101,58.6,267,100,8,38.2,414,97.1,66,88.7,188,85.3,83,74.6,211440,Carnegie Mellon; CMU,5000 Forbes Avenue,Pittsburgh,-79.941993,40.44357,94,1
+53,University of California-San Diego,US,90,45,61.6,123,55.6,280,77,118,54.9,333,53.7,267,96.9,40,21.2,560,74.5,110680,UCSD  UC San Diego,9500 Gilman Dr,La Jolla,-117.235866,32.877749,91,2
+63,Brown University,US,57.6,128,54.2,154,80.8,132,89.9,65,82.8,210,49.8,294,73.6,417,99.6,14,69.6,217156, ,One Prospect Street,Providence,-71.40385,41.82617,94,1
+72,University of Texas at Austin,US,93.7,34,85.2,62,9.8,601,90.9,61,7.6,601,10.8,601,90.9,142,71.1,131,67.4,228778,UT Austin,110 Inner Campus Drive,Austin,-97.738273,30.282825,91,1
+80,"University of Washington,UW(IEEUC)",US,84.8,55,48.6,183,10.8,601,100,7,32.5,458,36,384,97.6,29,84.1,89,64.7,236948,"UW-Seattle, UDub, UW, Washington",1400 NE Campus Parkway,Seattle,-122.30514,47.65538,91,1
+83,"University of Wisconsin, Madison.UW-Madison",US,82.4,63,48.1,188,70.6,184,41.9,333,37.7,421,23.8,482,93.2,105,84.6,87,63.7,240444, ,500 Lincoln Dr,Madison,-89.404098,43.075409,91,1
+85,"University of Illinois at Urbana-Champaign,UIUC",US,85.6,54,60.9,126,9.5,601,88.7,71,20.3,578,46.4,309,92.2,118,70,135,63.6,145637,Illinois|Illinios|Ilinois|Ilinios|Urbana|Champaign|Champagne|Champaign-Urbana|Champagne-Urbana|Urbana-Champaign|Urbana-Champagne|University of Illinois at Urbana|University of Illinois at Champaign|University of Illinois at Champagne|University of Illinois at Champaign-Urbana|University of Illinois at Champagne-Urbana|UIUC|UICU|University of Illinois at UC|University of Illinois at CU,601 E John Street,Champaign,-88.229114,40.104718,91,1
+88,Georgia Institute of Technology,US,67.7,97,77,77,11.1,601,95.5,44,62.9,299,54.8,260,78.5,341,63.5,176,62.3,139755,Georgia Tech,225 North Ave,Atlanta,-84.394832,33.77242,92,1
+93,Pennsylvania State University,US,76.7,75,69.8,97,32.6,473,67.7,162,25.3,523,31,421,96.8,44,44.8,282,60.8,495767,Penn State,201 Old Main,University Park,-77.862848,40.7965,91,1
+100,Rice University,US,38.8,218,26.1,366,69.5,189,86.7,82,90,174,92.6,100,57.2,601,70.7,133,58.8,227757, ,6100 S Main St,Houston,-95.402035,29.717897,94,1
+102,"University of California, Davis (UC Davis)",US,64.8,105,51,162,27.1,559,68.7,153,84.7,204,70.2,198,90.2,155,25,488,58.2,110644,UC Davis,One Shields Avenue,Davis,-121.749567,38.539667,91,2
+103,The University of North Carolina at Chapel Hill (UNC),US,65.5,102,44.7,210,80.4,135,46.6,287,27.2,507,10,601,90,160,67.4,152,58.2,199120, ,103 South Bldg Cb 9100,Chapel Hill,-79.050969,35.911769,92,1
+108,"Boston University,BU",US,62.3,110,57.2,139,40.4,388,61.6,195,33.7,449,83.3,144,86.9,212,80.5,103,57.2,164988,BU|Boston U,One Silber Way,Boston,-71.107942,42.351118,94,1
+119,Washington University in St. Louis,US,40.1,210,15.3,501,99.9,22,55.6,221,82.4,212,55.1,258,84.9,243,71,132,55.8,179867,WashU,One Brookings Drive,Saint Louis,-90.310604,38.647929,94,1
+129,Purdue University- West Lafayette,US,62.7,109,73.1,88,11.7,601,70.9,141,51.7,345,48.4,300,92.2,119,63.8,173,54.2,243780,Purdue-West Lafayette|Purdue|PU|Purdue-WL,Hovde Hall of Administration,West Lafayette,-86.914435,40.428206,91,1
+134,University of Southern California,US,54.6,142,59.1,131,28.4,535,71.7,138,36.1,434,77.4,164,89.2,180,94.8,44,53.7,123961,USC,University Park,Los Angeles,-118.284169,34.021281,94,1
+140,"Ohio State University, OSU",US,61.1,113,62.2,121,51.1,308,34.6,396,63,297,16.2,600,96.5,49,41.9,309,52,204699, ,1461 Mount Vernon Ave,Marion,-83.090597,40.577779,195,1
+148,University of Rochester(WellSpring),US,23.8,356,20.1,459,99.3,36,55,230,74.9,238,95.1,78,75.1,389,46.5,273,51.1,195030, ,Wilson Blvd. - Wallis Hall,Rochester,-77.631202,43.126397,94,1
+149,"University of California,Santa Barbara (UCSB)",US,55.9,135,24,399,10.6,601,97.2,30,57.8,317,28.4,444,78.4,343,15.6,601,50.9,110705,UCSB  UC Santa Barbara,5221 Cheadle Hall,Santa Barbara,-119.846426,34.416297,92,2
+155,Emory University,US,25.2,336,15.7,501,99.1,40,68.7,154,50.1,351,31.1,420,87.7,201,44.5,287,49.5,139658, ,201 Dowman Drive,Atlanta,-84.325512,33.790183,94,1
+159,Michigan State University,US,60.5,114,61.4,124,12.9,601,58.9,210,62.1,303,16.9,584,93.2,107,53.6,229,48.9,171100,MSU|Spartans|MI State University|State|MI State U, ,East Lansing,-84.476111,42.73212,91,1
+164,Texas A&M University-College Station,US,61.5,112,65,112,5,601,67.8,161,24.8,527,14.7,601,91.1,140,36.3,356,47.9,224554,A&M-Commerce,2200 Campbell Stree,Commerce,-95.904579,33.242112,99,1
+165,University of Maryland,US,51.2,151,35.6,275,37.1,418,71.1,140,23.8,534,14.9,601,92.6,112,61.4,185,47.9,163286, , ,College Park,-76.944721,38.988178,91,1
+176,Case Western Reserve University,US,18.3,471,20.2,458,89.1,90,65.8,172,47.8,366,64.6,220,72.5,433,40.9,319,46.2,201645,CWRU|Case|Case Western Reserve,10900 Euclid Ave,Cleveland,-81.609596,41.507419,94,1
+183,University of Pittsburgh,US,39.9,211,16.3,501,96.3,58,37.4,373,7.9,601,13.8,601,90.3,152,44,293,45.6,215266,Pitt-Bradford,300 Campus Drive,Bradford,-78.673701,41.943415,137,1
+186,"University of Minnesota-Twin Cities,UMN",US,60.1,116,28.2,341,38.2,403,49.2,269,7.1,601,10.1,601,97.6,31,54.5,218,45.4,174066, ,100 Church Street SE,Minneapolis,-93.235464,44.972851,91,1
+188,University of Florida,US,48.5,166,47,201,71.4,177,26.4,470,17.5,601,11.3,601,98,22,54,224,45.3,134130, ,Tigert Hall,Gainesville,-82.347911,29.64629,91,1
+199,Vanderbilt University,US,25.9,329,22.2,424,100,9,38.5,361,38.7,412,30,429,83,271,56.1,207,43.9,221999, ,2101 West End Avenue,Nashville,-86.803369,36.14659,94,1
+205,Dartmouth College,US,19.2,447,25.9,369,65.2,222,86.7,81,5.7,601,32.8,409,53.7,601,96.7,38,42.8,182670,"Dartmouth, Big Green",207 Parkhurst Hall,Hanover,-72.289949,43.704115,94,1
+219,"Arizona State University,ASU(IEEUC)",US,46.7,173,40.2,233,8.2,601,59.9,201,67.7,270,37.1,372,90.2,156,33.4,382,41.8,104151,ASU Tempe,University Drive and Mill Avenue,Tempe,-111.934383,33.417721,91,1
+236,"University of California,Irvine (UCI)",US,39.7,213,18.4,492,12.9,601,59.9,200,72,251,69.1,206,85.8,231,11.6,601,39.5,110653,UCI  UC Irvine,501 Aldrich Hall,Irvine,-117.841248,33.648434,91,2
+245,University of Notre Dame,US,26.6,321,44.2,216,61.5,247,47.3,281,23.5,540,15.2,601,74.8,402,74.8,120,38.9,152080,Notre Dame | Fighting Irish | ND,400 Main Building,Notre Dame,-86.238959,41.703058,94,1
+247,Yeshiva University,US,2.6,501,3.7,501,85.5,108,98.5,21,0,0,8.9,601,42.2,601,24.1,505,38.8,197708, ,500 W 185th St,New York,-73.929873,40.850605,101,2
+253,"University of Massachusetts,Amherst",US,40.7,204,16.8,501,13.7,601,65.3,175,65.2,283,22.6,498,81.1,301,50.9,244,38.3,166629,UMass Amherst,374 Whitmore Building 181 Presidents Drive,Amherst,-72.526728,42.385999,92,1
+255,"University of Virginia,UVA",US,35.2,240,37.5,254,60.7,253,36.5,381,6.7,601,10.9,601,84.9,242,81.5,99,38.3,234076,University of Virginia  UVa  UVA,1827 University Avenue,Charlottesville,-78.503428,38.035665,92,1
+263,University of Arizona(WellSpring),US,39.6,216,22.4,420,67.6,201,21.5,533,20.5,576,13.5,601,97,38,40.7,321,37.8,104179,The University of Arizona | UArizona | U of A | UofA | UA | University of AZ | Univ. of AZ | The Univ. of AZ,1401 E University,Tucson,-110.950815,32.232672,91,1
+281,Georgetown University,US,31.2,270,44.6,213,55.4,281,27.3,458,10.5,601,41.7,332,57.9,594,96,41,36.3,131496,Georgetown|GU,37th and O St NW,Washington,-77.073463,38.908809,94,1
+299,University of Miami,US,22.7,367,32.1,303,70.8,182,20.8,548,66.9,278,25.3,468,81.7,297,50.3,247,35.4,135726, ,University of Miami,Coral Gables,-80.278662,25.72126,94,1
+313,"North Carolina State University,NCSUNC State",US,29.2,293,23,415,11.3,601,68.3,156,63.7,292,16,601,79,334,31.3,398,34.1,199193,NC State University | NC State | N C State University | N C State | NCSU,2101 Hillsborough Street,Raleigh,-78.674517,35.785111,92,1
+314,Tufts University,US,18.3,470,7.2,501,65.7,217,48.2,273,30.1,475,32.9,407,77.9,349,83.1,94,34.1,168148, , ,Medford,-71.118293,42.40855,94,1
+318,"University of Colorado,Boulder",US,37,229,13.5,501,41.8,372,36.8,379,30.2,473,5.8,601,89.6,172,47.2,267,33.8,126614,U of Colorado|Univ of Colorado|University of Colorado|U of CO|Univ of CO|University of CO|Boulder|CU|CU-Boulder|UCB|CUB|Colorado|Colorado University|U of Colo|Univ of Colo|University of Colo|Colo|Buffs|Buffalos|Buffaloes|CU at Boulder|Golden Buffs|University of Colorado at Boulder,Regent Drive at Broadway,Boulder,-105.270823,40.008781,92,1
+319,"University of Illinois at Chicago,UIC(Shorelight(GEA))",US,42,197,31.9,306,35.6,435,26.4,467,10.1,601,15.4,601,89.8,167,41.6,312,33.8,145600,UIC|U of I-Chicago|Illinois-Chicago|U of I-Medical Center|University of Illinois-Medical Center|,601 S Morgan,Chicago,-87.650503,41.871837,92,1
+339,Indiana University-Bloomington,US,36.6,233,26.3,363,28.4,534,29.4,436,43.3,389,11.8,601,87.1,210,63.8,174,31.7,151351,IUB | IU Bloomington,107 South Indiana Ave.,Bloomington,-86.526559,39.16609,91,1
+351,University of Connecticut,US,15.5,501,10.7,501,11.5,601,82.8,99,69,262,24.4,474,86.9,213,35.5,362,31,129020, ,352 Mansfield Road,Storrs,-72.249948,41.809098,92,1
+362,George Washington University,US,27.2,310,29,334,31.3,495,32.6,415,39.2,408,32.1,415,86.1,223,66.6,157,30.3,131469,GWU|GW,"1918 F Street, NW",Washington,-77.048363,38.89923,94,1
+367,Virginia Tech (Virginia Polytechnic Institute and State University),US,28.5,299,25.6,375,20,601,38.5,362,68.4,267,18.5,554,84.1,259,28.5,445,30.2,233921,Virginia Tech,"210 Burruss Hall, 800 Drillfield Dr.",Blacksburg,-80.423675,37.229012,91,1
+374,University of Kansas(Shorelight(GEA)),US,14.9,501,16.1,501,80.5,134,11.2,601,68.9,263,8.2,601,80.9,307,23.1,524,29.9,155317,"University of Kansas | Univ of Kansas | Kansas University | KU | Kansas Jayhawks | Univ of KS |University of KS | Kansas Univ | Kansas U, KUMC, University of Kansas Medical Center, KU Medical Center, Kansas University Medical Center","Strong Hall, 1450 Jayhawk Blvd, Room 230",Lawrence,-95.247567,38.958549,92,1
+375,"University of California, Santa Cruz",US,18.6,462,5,501,8,601,81.4,105,63.5,296,13.4,601,60.5,564,15.4,601,29.8,110714,UC Santa Cruz,1156 High St,Santa Cruz,-122.058801,36.995584,93,2
+389,Northeastern University(Kaplan),US,20.5,409,12.5,501,17.8,601,37.1,376,76,232,95.8,73,75.6,379,46.2,275,29.2,167358, ,360 Huntington Ave,Boston,-71.088782,42.339992,94,1
+395,University of Utah(Shorelight(GEA)),US,16.5,501,7.6,501,62.5,241,38,366,18.9,593,9.2,601,82.2,283,15.2,601,29,230764,The U,"201 Presidents Circle, ROOM 201",Salt Lake City,-111.846044,40.762484,92,1
+408,Colorado State University(INTO),US,19.1,448,19.2,478,63.5,232,20.8,549,21.2,566,5.3,601,77.9,348,19.8,593,27.9,476975, ,585 Salida Way,Aurora,-104.786666,39.724786,107,1
+417,"Stony Brook University,SUNY",US,19.3,446,9.8,501,31.7,488,34.7,395,47.5,370,60.2,236,79.1,330,24.5,500,27.5,196097,SUNY Stony Brook  State University of New York at Stony Brook,310 Administration Building,Stony Brook,-73.12046,40.91476,92,1
+427,"State University of New York at Buffalo,SUNY",US,17.7,487,10.6,501,7.2,601,57.9,215,76,233,42.7,323,70.9,450,35.5,363,27.2,196088,University at Buffalo|UB|State University of New York at Buffalo|SUNY Buffalo|University of Buffalo,12 Capen Hall,Buffalo,-78.789458,43.000942,92,1
+429,"University of Colorado, Denver ",US,7.9,501,8.2,501,100,4,11.6,601,4,601,10,601,75.4,384,4.6,601,27.1,126562,University of Colorado Denver  University of Colorado Anschutz Medical Campus    UCD,"1380 Lawrence Street, Lawrence Street Center, Suite 1400",Denver,-104.837722,39.745149,93,1
+440,Wake Forest University,US,5.4,501,7.3,501,100,13,12.6,601,6,601,12.9,601,50.8,601,43,296,26.5,199847, ,1834 Wake Forest Road,Winston-Salem,-80.277446,36.133609,98,1
+446,"Illinois Institute of Technology,IIT",US,14.8,501,8.2,501,14.7,601,52.9,242,23.7,535,95,81,31.3,601,22.8,532,26.3,145725,Illinois Tech,10 West 35th Street,Chicago,-87.627321,41.8313,98,1
+448,Washington State University(INTO),US,25.5,333,24.4,391,15.3,601,36.2,385,57.4,321,6.4,601,78.7,337,13.3,601,26.3,236939, ,French Administration Building,Pullman,-117.158168,46.730448,92,1
+453,"University of California, Riverside",US,17.8,484,8.5,501,8,601,61.8,193,72,252,9.4,601,76,374,11.6,601,26.1,110671,UC Riverside,900 University Ave,Riverside,-117.32741,33.97246,92,2
+462,Rensselaer Polytechnic Institute,US,8.4,501,6.5,501,21,601,70.5,145,12.2,601,48.9,298,41,601,57.3,197,25.5,194824,"RPI, Rensselaer",110 8th St,Troy,-73.676646,42.729978,94,1
+469,University of Alaska Fairbanks,US,3.1,501,3.7,501,99.6,33,16.2,601,5.6,601,3.4,601,44.5,601,8.3,601,25.3,102614,UAF,1731 South Chandalar Drive,Fairbanks,-147.823146,64.85756,97,1
+470,University of Iowa,US,20.7,404,13.3,501,48.2,325,24.4,498,15.8,601,5.9,601,81.3,299,30.6,410,25.3,153658,Iowa,101 Jessup Hall,Iowa City,-91.536425,41.661935,92,1
+472,Tulane University,US,9.5,501,4.2,501,86.7,102,11.4,601,13.7,601,10.9,601,74.9,399,44.1,291,25.2,160755, ,6823 St. Charles Avenue,New Orleans,-90.122144,29.940069,94,1
+483,Iowa State University,US,19.4,442,13.9,501,7.9,601,65.8,171,6,601,10.3,601,85.1,239,31,402,24.8,153603,ISU,1750 Beardshear Hall,Ames,-93.648504,42.026212,92,1
+497,Brandeis University(EduCo),US,9.6,501,3.8,501,55.7,279,22.3,524,19.4,588,68.5,208,20.3,601,55.1,214,24.3,165015, ,415 South St,Waltham,-71.260155,42.365727,94,1
+503,Colorado School of Mines,US,6.9,501,9.2,501,24.9,587,67.7,163,22.3,555,11.5,601,40.7,601,24.5,501,-,126775,Mines,1500 Illinois St,Golden,-105.223364,39.751443,93,2
+506,Missouri University of Science & Technology,US,3.2,501,4.3,501,7.2,601,79.9,111,86.9,191,8.2,601,35.2,601,4.2,601,-,178411, ,300 W.13th Street,Rolla,-91.775583,37.953426,97,1
+507,Swarthmore College,US,3.5,501,1.5,501,91.8,79,19.3,569,2.3,601,0,0,10.3,601,99.1,20,-,216287,Swat,500 College Ave,Swarthmore,-75.354278,39.905159,132,1
+515,"Florida State University,FSU",US,26.7,319,37.1,256,8.2,601,33.1,413,15,601,4.2,601,72.8,427,22.3,546,-,134097,Florida State|F.S.U.|FSU|F. S. U.|Fla. State University|Fla. State|Fl State University|Fl State|FL State University|FL State|Seminoles|Noles|Florida State Seminoles|Florida State University Seminoles|Fl. State|Fl. State University|The Florida State University|Floridia State University|Florda State University|Florida State Univerisity|Flordia State University|Florida State Unversity|,222 S. Copeland Street,Tallahassee,-84.291921,30.440756,91,1
+522,"University of Missouri at Columbia , MU",US,15.4,501,15.2,501,43.5,356,20.1,559,59.2,310,4,601,71.4,442,39.4,331,-,178396, ,105 Jesse Hall,Columbia,-92.328843,38.94531,92,1
+527,The New School,US,15.6,501,7.4,501,53.8,291,2.6,601,3.9,601,94.9,83,10.9,601,15.3,601,-,193654,New School University; Parsons The New School for Design; New School for Social Research; Eugene Lang College; Mannes College; The New School for Drama; The New School for Jazz and Contemporary Music; The New School for Public Engagement, ,New York,-73.997114,40.735508,98,1
+531,University of Texas-Dallas,US,14.2,501,17,501,4,601,64.1,179,14.6,601,35.9,385,70.2,459,4.8,601,-,228787,UT Dallas,800 West Campbell  Road,Richardson,-96.749702,32.984673,92,1
+567,Boston College,US,21.1,397,20.4,451,23.5,601,24.1,502,13.3,601,21.5,516,40,601,69.9,137,-,164924, ,140 Commonwealth Avenue,Chestnut Hill,-71.169242,42.336213,94,1
+589,University of Delaware,US,10.4,501,9.6,501,8.5,601,58.8,212,37.2,426,16,601,61.2,554,28.8,438,-,130943,UD,104 Hullihen Hall,Newark,-75.752822,39.679577,93,1
+590,University of Massachusetts Boston,US,12.8,501,8.6,501,11,601,61,196,4.6,601,12.3,601,71.2,446,3.1,601,-,166638, ,100 Morrissey Boulevard,Boston,-71.036865,42.312881,96,1
+593,Lehigh University,US,5.6,501,5,501,29.8,515,40.1,350,50.2,350,36,382,54.1,601,73.1,125,-,213543, ,27 Memorial Drive West,Bethlehem,-75.380236,40.606822,98,1
+625,Oregon State University(INTO),US,16.2,501,7,501,24,598,37.2,375,13.9,601,13.8,601,89.4,177,16.6,601,-,209542, ,1500 SW Jefferson Avenue,Corvallis,-123.274723,44.56395,92,1
+631,Saint Louis University(St. Louis University)(INTO),US,3.5,501,3.5,501,73.5,166,11.3,601,11,601,6.5,601,40.3,601,13.4,601,-,179159, ,One North Grand Blvd,Saint Louis,-90.2351,38.636801,98,1
+634, University of Georgia,US,21.2,392,27.2,354,11.7,601,31.5,421,7.5,601,4.6,601,88.3,194,22,550,-,139959, ,Administration Building,Athens,-83.374039,33.956262,91,1
+635,University of Tennessee,US,10.8,501,23.9,401,13.2,601,54.3,233,5.1,601,2.5,601,75.4,382,10.6,601,-,221759, ,527 Andy Holt Tower,Knoxville,-83.925852,35.952082,92,1
+649,University of South Florida(INTO),US,12.7,501,14.2,501,7.4,601,41.3,343,49.1,355,20.6,531,83,270,9.1,601,-,137351,University of South Florida USF,4202 East Fowler Ave,Tampa,-82.413232,28.061458,91,1
+651,Wayne State University,US,8,501,5,501,65.2,221,14,601,13.3,601,5.2,601,74.9,397,17.8,601,-,172644,WSU,42 W. Warren Ave.,Detroit,-83.068998,42.358994,92,1
+652,Wesleyan University,US,3.3,501,2.4,501,73,169,9.8,601,12.7,601,20.4,534,9.3,601,98.7,26,-,130697, ,45 Wyllys Avenue,Middletown,-72.657146,41.554665,130,1
+666,Drexel University,US,8.4,501,6.8,501,25.2,582,36.6,380,24.8,526,22.1,505,71.3,443,39.5,330,-,212054,Drexel,3141 Chestnut St,Philadelphia,-75.190051,39.955217,94,2
+676,"New Jersey Institute of Technology,NJIT (EduCo)",US,3.5,501,8,501,16,601,25.3,484,75.4,235,78.4,160,35.5,601,6.2,601,-,185828,NJIT,University Heights,Newark,-74.177113,40.741997,93,2
+694,University of Alabama,US,6.9,501,4.6,501,42.8,364,36.1,386,0,0,0,0,67.7,485,4.7,601,-,100663,UAB,Administration Bldg Suite 1070,Birmingham,-86.799345,33.505697,93,1
+700,"University of Nebraska,Lincoln(EduCo)",US,10.5,501,5.3,501,19.4,601,38.4,363,46.2,375,11.6,601,78.7,336,17.5,601,-,181464, ,1400 R Street,Lincoln,-96.700508,40.817598,93,1
+703,American University(Shorelight(GEA)),US,16.3,501,29.2,332,32.3,479,4.8,601,3.3,601,17.2,575,16.2,601,54.7,216,-,131159, ,4400 Massachusetts Ave NW,Washington,-77.088875,38.936005,98,1
+708,City University of New York,US,24.4,348,37.7,251,10.3,601,5.7,601,7.4,601,5.4,601,92.1,121,21.3,557,-,190691,York | York College,94-20 Guy R. Brewer Blvd,Jamaica,-73.796313,40.701576,124,1
+723,Stevens Institute of Technology,US,2.5,501,3.4,501,5.9,601,41.4,342,42.1,399,86.3,131,27.5,601,17,601,-,186867,Stevens,Castle Point On Hudson,Hoboken,-74.025334,40.744776,98,1
+736,University of Cincinnatiï¼UC,US,12.4,501,11,501,23.3,601,26.4,468,6.6,601,8.3,601,80.4,317,26.1,473,-,201885, ,2624 Clifton Avenue,Cincinnati,-84.51428,39.131159,91,1
+738,University of Kentucky,US,11.6,501,14.9,501,21.2,601,28.4,449,16.5,601,4.4,601,82.2,286,15.6,601,-,157085, ,South Limestone,Lexington,-84.504747,38.038911,92,1
+741,University of New Mexico,US,12.7,501,7.2,501,32.7,468,21.6,532,10.8,601,4.4,601,77.7,351,7.7,601,-,187985,UNM,1700 Lomas Blvd NE,Albuquerque,-106.620155,35.083868,93,1
+742,University of Oklahoma,US,9.5,501,13.2,501,16.6,601,37.1,377,24.4,529,5.6,601,71,449,27,462,-,207500,University of Oklahoma|Oklahoma University|OU|Oklahoma,660 Parrington Oval,Norman,-97.444211,35.209407,93,1
+743,"University of Oregon,UO",US,17,497,11.9,501,14.3,601,30,429,8,601,6.3,601,55.9,601,30.2,414,-,209551,UO,110 Johnson Hall,Eugene,-123.075792,44.045146,93,1
+747,University of South Carolina(Shorelight(GEA)),US,15.4,501,18.5,490,11.5,601,27.4,457,21.8,559,4.4,601,81,305,26.3,471,-,218742, ,800 University Way,Spartanburg,-81.970583,34.996403,136,1
+750,University of Vermont(Study Group),US,3.1,501,3.4,501,52.7,296,20.9,542,6.1,601,3.5,601,48.7,601,27.7,454,-,231174,UVM,85 S Prospect St,Burlington,-73.196646,44.477325,96,1
+754,Virginia Commonwealth University,US,6.9,501,8.9,501,45.9,337,15.4,601,13.7,601,3.4,601,78,347,18,601,-,234030,VCU,910 W Franklin St,Richmond,-77.452697,37.54962,92,1
+760,Clark University,US,2.8,501,2.1,501,29.6,518,22,528,15.9,601,59.3,240,25.3,601,56.5,204,-,165334, ,950 Main St,Worcester,-71.823356,42.249987,98,1
+763,Florida International University,US,14.3,501,24.2,398,11.2,601,16,601,20.9,572,13.3,601,90.6,149,14.5,601,-,133951,FIU,11200 S. W. 8 Street,Miami,-80.373928,25.75732,91,1
+764,Howard University,US,5.7,501,9.9,501,56.7,273,4,601,1,601,5,601,22.4,601,34.3,372,-,131520,HU,2400 Sixth St NW,Washington,-77.018966,38.922392,98,2
+773,Michigan Technological University,US,4.6,501,5.6,501,28.3,538,35.2,389,16.4,601,10.8,601,45.3,601,17.5,601,-,171128,Michigan Tech|MTU|Michigan Tech University|Mich Tech|Michigan Technological Univ|Michigan Tech Univ|MT,1400 Townsend Drive,Houghton,-88.548092,47.11866,97,1
+782,"Syracuse University,SU",US,13.6,501,15.9,501,14.6,601,17,596,5.4,601,41.4,333,48.9,601,51.9,238,-,196413, ,900 South Crouse Ave.,Syracuse,-76.136975,43.040176,94,1
+783,Temple University,US,12.6,501,9.1,501,24.7,591,19.4,568,4.4,601,6.1,601,81.2,300,22.8,534,-,216339,Temple,1801 North Broad Street,Philadelphia,-75.156859,39.980546,92,1
+799,University of Denver,US,4.9,501,8.1,501,48.2,324,12.2,601,2.6,601,5.9,601,19.2,601,37.2,351,-,127060,DU,2199 S. University Blvd,Denver,-104.963259,39.678005,94,1
+800,University of Houston,US,14.4,501,15.8,501,4.4,601,35.2,390,6.3,601,9.1,601,77.2,359,29.9,418,-,225511,UH,212 E. Cullen Building,Houston,-95.343537,29.720393,91,1
+823,Clarkson University,US,1,501,3.2,501,15.9,601,39.2,356,49.6,352,9.2,601,42.9,601,19,601,-,190044, ,8 Clarkson Ave,Potsdam,-74.999359,44.662716,98,1
+824,Clemson University,US,8.1,501,16.4,501,12.5,601,21,540,2.1,601,5.1,601,71.3,445,12,601,-,217882, ,201 Sikes Hall,Clemson,-82.835114,34.679381,92,1
+825,College of William and Mary(Navitas),US,8,501,12.4,501,30,511,19,573,6.5,601,7.6,601,34,601,65.9,161,-,233338,"Richard Bland, Richard Bland Junior College, Richard Bland College, RBC, Richard Bland College of William & Mary",11301 Johnson Road,South Prince George,-77.399932,37.156972,175,1
+835,Georgia College & State University,US,12.7,501,19.7,469,4.8,601,26.1,474,8.5,601,6.3,601,51.7,601,16.6,601,-,139940, ,33 gilmer st,Atlanta,-84.38667,33.7527,91,1
+841,Indiana UniversityPurdue University Indianapolis,US,8.3,501,7.1,501,20,601,17.7,587,30.7,467,5.4,601,42.8,601,3.8,601,-,151111,IUPUI,420 University Blvd,Indianapolis,-86.172217,39.772948,95,1
+849,Kansas State University ,US,9.8,501,10.5,501,13,601,22.6,519,51.5,346,7.5,601,73,423,17.9,601,-,155025,ESU E-State,1 Kellogg Circle,Emporia,-96.179021,38.414784,109,1
+861,"Louisiana State University,Baton Rouge(Shorelight(GEA))",US,10.2,501,11,501,6.8,601,20.6,550,11.1,601,4.7,601,66.9,492,18.3,601,-,159416,LSUS,One University Place,Shreveport,-93.70561,32.428465,108,1
+862,Loyola University Chicago,US,8,501,19.1,482,22.6,601,9.8,601,5.8,601,4,601,29.5,601,21,566,-,146719, ,1032 W. Sheridan Rd,Chicago,-87.656872,42.000765,98,1
+879,Oklahoma State University ,US,9.3,501,10.3,501,11.7,601,16.1,601,55.8,328,7.2,601,60,567,17.4,601,-,207315, ,1111 W 17th St,Tulsa,-96.005702,36.137977,153,2
+895,"Rutgers, the State University of New Jersey- Newark",US,11,501,7.2,501,14.4,601,15.4,601,28.6,492,36.1,381,27.2,601,56.8,203,-,186399,"Rutgers, The State University of New Jersey; Rutgers, The State University; Rutgers University; Rutgers U; Rutgers; RutgersNewark; Rutgers, Newark; Rutgers Newark","249 University Avenue, Blumenthal Hall",Newark,-74.175809,40.739122,96,1
+903,Southern Methodist University,US,4.7,501,5.4,501,32.8,465,9.8,601,11.4,601,12,601,37.3,601,53,232,-,228246,SMU,6425 Boaz St,Dallas,-96.783365,32.843612,98,1
+950,"University at Albany,State University of New York",US,8.3,501,7.9,501,6,601,43.3,316,6,601,8,601,70.2,460,12.3,601,-,196060,"University at Albany, SUNY",1400 Washington Avenue,Albany,-73.824662,42.685489,93,1
+958,University of Central Florida(Shorelight(GEA)),US,14.2,501,25.7,373,2.9,601,26,475,14.7,601,4.8,601,77.4,356,11.8,601,-,132903,UCF,4000 Central Florida Blvd,Orlando,-81.200889,28.602159,91,1
+966,University of Hartford,US,4.7,501,14.6,501,31.8,486,2.2,601,22.7,548,7.6,601,7.7,601,16.6,601,-,129525,"UHart, UHA, Hartford",200 Bloomfield Ave,West Hartford,-72.715213,41.798591,101,2
+970,University of Idaho,US,3.3,501,2.1,501,15.5,601,38,367,4.5,601,5,601,46.7,601,7.6,601,-,142285,UIdaho,875 Perimeter Drive MS 2282,Moscow,-117.014167,46.727406,97,1
+974,University of Louisville,US,3.1,501,6.8,501,20.5,601,20.5,554,52.1,342,3,601,53.7,601,14.4,601,-,157289, ,2301 S 3rd St,Louisville,-85.760412,38.216862,93,1
+977,"University of Maryland, Baltimore(EduCo)",US,10.7,501,6.7,501,15.1,601,20.2,557,49,356,10.8,601,42,601,13.6,601,-,163268,UMBC,1000 Hilltop Circle,Baltimore,-76.711607,39.256686,93,1
+979,University of Mississippi,US,3.7,501,4.8,501,42.7,365,8.8,601,10,601,3.1,601,57,601,6,601,-,176017,Ole Miss,"Oxford, Mississippi",University,-89.537434,34.365529,93,1
+983,University of New Hampshire,US,5.5,501,6,501,10.8,601,28.5,447,6.1,601,4.3,601,58.3,588,12.3,601,-,183044, ,"105 Main St., Thompson Hall",Durham,-70.932465,43.135934,93,1
+992,University of Tulsa,US,2.2,501,3.3,501,34.7,445,15.7,601,5.1,601,16.5,593,13.7,601,40.6,324,-,207971,Tulsa University,800 South Tucker Drive,Tulsa,-95.945941,36.152324,98,1
+995,University of Wyoming,US,2.2,501,1.8,501,24,597,24.5,496,8.5,601,4.5,601,55.1,601,10.5,601,-,240727,UW,Corner of Ninth and Ivinson,Laramie,-105.57931,41.311773,96,1
+1002,Worcester Polytechnic Institute,US,3.5,501,6.6,501,19.2,601,26.4,469,28.9,489,26.7,456,36.3,601,27.3,458,-,168421,WPI,100 Institute Road,Worcester,-71.808339,42.274853,98,1
+1020,Auburn University(Shorelight(GEA)),US,6.6,501,9.1,501,7,601,22.1,527,6.8,601,8.6,601,58,592,19.9,591,-,100858, , ,Auburn,-85.488258,32.599378,92,1
+1025,Baylor University(Study Group),US,5.6,501,9.1,501,14.9,601,9.4,601,2.2,601,4.7,601,37.1,601,21.8,552,-,223232, , ,Waco,-97.121041,31.546872,94,1
+1030,"Binghamton University, State University of New York",US,6.3,501,8,501,5.9,601,20.6,552,9.5,601,10.6,601,23.1,601,10.1,601,-,196079,Binghamton University,4400 Vestal Parkway East,Vestal,-75.966889,42.087868,93,1
+1034,Brigham Young University-Provo,US,6.8,501,7.8,501,4.5,601,15.6,601,1.1,601,3.5,601,62.5,541,37.4,348,-,230038,BYU,Main Campus,Provo,-111.649281,40.250851,98,1
+1041,CUNY The City College of New York,US,4.5,501,1.7,501,12,601,18.6,578,7.6,601,7,601,38.4,601,3.2,601,-,190567,City | City College | CCNY | City College of New York,160 Convent Ave,New York,-73.948542,40.819846,96,1
+1046,Fordham University ,US,6.1,501,9.7,501,17.1,601,6.6,601,8.5,601,15.6,601,34.8,601,42.9,298,-,191241, ,441 E Fordham Rd,Bronx,-73.882705,40.859354,98,1
+1049,George Mason University(INTO),US,8.8,501,7.1,501,11.9,601,12.7,601,9.4,601,10,601,58.6,584,18.7,601,-,232186,Mason,4400 University Dr,Fairfax,-77.307428,38.829976,92,1
+1061,Kent State University,US,6,501,5,501,6.5,601,18.7,575,21.4,564,5.4,601,52.3,601,10.3,601,-,203447,at Ashtabula ,3300 Lake Road West,Ashtabula,-80.830377,41.888296,191,2
+1068,Marquette University,US,3,501,4.4,501,25.5,578,8.9,601,5.5,601,2.9,601,21.2,601,22.5,540,-,239105, ,1250 W Wisconsin Avenue,Milwaukee,-87.927961,43.03903,98,1
+1070,Mississippi State University,US,5.5,501,8.6,501,8.1,601,17.1,595,10.4,601,3.3,601,53.2,601,9.9,601,-,176080, ,Lee Boulevard,Mississippi State,-88.790139,33.454852,93,1
+1083,Ohio University,US,8.5,501,12.1,501,6,601,15.6,601,6.1,601,4.3,601,44.8,601,23.6,512,-,204857, ,020 Chubb Hall,Athens,-82.100985,39.326798,93,1
+1085,Rochester Institute of Technology,US,4.6,501,6.9,501,22.8,601,8.3,601,5.7,601,18.2,557,46.3,601,26.8,464,-,195003,RIT,1 Lomb Memorial Dr,Rochester,-77.67386,43.084188,98,1
+1087,San Diego State University ALI,US,4.4,501,3.9,501,3.2,601,20.9,545,5.5,601,5.5,601,72.7,431,28.7,441,-,122409, ,5500 Campanile Dr,San Diego,-117.071228,32.77525,95,1
+1089,Seattle University,US,4.6,501,3.9,501,33.5,459,3.3,601,1.5,601,12.6,601,6.9,601,13.5,601,-,236595,Seattle U,900 Broadway,Seattle,-122.318851,47.608859,101,1
+1102,Texas Tech University,US,10.1,501,14.2,501,6.3,601,14.7,601,15.2,601,6,601,71.2,447,18,601,-,229115, ,Broadway and University Avenue,Lubbock,-101.874783,33.583448,91,1
+1107,University of Alabama at Birmingham(INTO),US,8.7,501,26.6,362,5.7,601,13.8,601,5.8,601,3.3,601,44.8,601,15.4,601,-,100751, ,739 University Blvd,Tuscaloosa,-87.545978,33.211875,92,1
+1159,University of Arkansas,US,6.9,501,6,501,6.9,601,12.7,601,6.3,601,4.6,601,61.8,549,9.7,601,-,108056, University of Arkansas System Office,2404 N University,Little Rock,-92.343582,34.775996,-2,-2
+1165,"University of Hawaii,Manoa",US,3.1,501,2.6,501,19.3,601,10.5,601,4.1,601,3.1,601,13.8,601,18.3,601,-,141565,UH Hilo / UHH,200 W Kawili St,Hilo,-155.080847,19.701189,99,1
+1169,University of Missouri Saint Louis,US,3.8,501,6.4,501,15.1,601,18.7,577,5.3,601,4.3,601,13.9,601,21.1,561,-,178420, ,One University Boulevard,Saint Louis,-90.311091,38.710312,97,1
+1170,"University of Missouri, Kansas City",US,4.5,501,5.4,501,18.7,601,14.4,601,3.9,601,8,601,24.7,601,11.6,601,-,178402, ,5000 Holmes St.,Kansas City,-94.582141,39.034179,96,1
+1171,University of Montana Missoula ,US,2.2,501,2.4,501,14.8,601,27,464,1.5,601,1.9,601,34.7,601,10.3,601,-,180489,University of Montana,"Missoula, Montana",Missoula,-113.982912,46.859312,93,2
+1175,University of North Texas,US,6.9,501,7.9,501,3.6,601,20.8,546,5.1,601,9,601,46.2,601,38.6,338,-,227216,UNT|North Texas|Mean Grean,1501 W.Chestnut Ave.,Denton,-97.148422,33.211178,91,1
+1186,"University of San Diego,USD",US,7.1,501,6,501,25.2,580,3.3,601,3.2,601,6.7,601,4.4,601,52.1,236,-,122436,USD,5998 Alcala Park,San Diego,-117.192073,32.770816,98,1
+1187,Yeshiva University,US,7.4,501,4.6,501,16,601,4.6,601,2.2,601,21.8,511,5.9,601,55.2,213,-,122612, ,2130 Fulton St,San Francisco,-122.450477,37.776618,100,1
+1188,University of Texas at San Antonio,US,6.3,501,4.4,501,4,601,27.5,456,11.5,601,2.9,601,66.7,495,8.5,601,-,229027,UTSA,One UTSA Circle,San Antonio,-98.620657,29.583709,92,1
+1189,University of the Pacific,US,2,501,3.8,501,32.1,481,3.7,601,3.8,601,7.2,601,11.4,601,27.9,452,-,120883,Pacific | UOP | University of Pacific | Pacific University | U. Pacific | Univ. of Pacific | U. of Pacific,3601 Pacific Ave,Stockton,-121.312301,37.981424,100,1
+1192,University of Toledo,US,3.2,501,6.1,501,8.4,601,25.1,488,8.6,601,8.5,601,47,601,9.3,601,-,206084, ,2801 W Bancroft,Toledo,-83.614714,41.660572,96,1
+1194,University of Wisconsin Milwaukee ,US,7.8,501,4.5,501,9.9,601,15.6,601,8.1,601,4.4,601,42.4,601,8.8,601,-,240453,UWM,2200 E Kenwood Blvd,Milwaukee,-87.880488,43.076848,93,1
+1201,West Virginia University,US,6,501,7.4,501,11.9,601,22.5,520,6,601,6.1,601,56.8,601,18.7,601,-,238032, ,PO Box 6201,Morgantown,-79.954391,39.634371,92,1
+1202,Western Michigan University,US,5.7,501,6.6,501,11.5,601,6.2,601,29.4,483,10.8,601,41.5,601,19.6,597,-,172699,WMU,1903 W Michigan Ave,Kalamazoo,-85.613759,42.282194,95,1
+1215,California Polytechnic State University,US,3.1,501,10.8,501,7.7,601,3.8,601,0,0,0,0,27.6,601,26,477,-,110422,Cal Poly,1 Grand Ave.,San Luis Obispo,-120.657311,35.299513,106,2
+1216,California State University - Los Angeles,US,4.4,501,2.5,501,3.8,601,3.4,601,5.2,601,6.8,601,7.1,601,5.3,601,-,110592,Cal State LA,5151 State University Dr,Los Angeles,-118.168965,34.066927,106,1
+1218,Central Michigan University,US,3.3,501,6.6,501,7.5,601,7.6,601,4,601,2.7,601,18.9,601,13.1,601,-,169248, ,106 Warriner Hall,Mount Pleasant,-84.77525,43.591203,96,1
+1221,Cleveland State University,US,3.8,501,5.1,501,10.1,601,5.8,601,3.3,601,8.9,601,16.7,601,12.3,601,-,202134, ,2121 Euclid Avenue,Cleveland,-81.674355,41.502281,96,1
+1225,Florida Atlantic University - Boca Raton,US,4.6,501,6.4,501,5.9,601,10.7,601,8.9,601,4.1,601,44.1,601,12,601,-,133669,FAU,"777 Glades Rd, Administration Bldg., Room 339",Boca Raton,-80.102978,26.372421,95,1
+1234,Humboldt State University,US,3.6,501,2.4,501,8.5,601,4.9,601,2.8,601,1.7,601,16.2,601,13.8,601,-,115755, ,1 Harpst Street,Arcata,-124.078293,40.877481,109,1
+1235,Illinois State University,US,3.3,501,4.1,501,6.6,601,5.3,601,5,601,2.8,601,14.3,601,14.3,601,-,145813, ,North and School Streets,Normal,-88.990058,40.509403,95,1
+1236,Indiana State University,US,5.3,501,5.8,501,7.5,601,3.3,601,2.3,601,2.6,601,4.4,601,6.7,601,-,151324,Indiana State  ISU,210 N 7th St,Terre Haute,-87.407846,39.469073,99,1
+1250,Miami University,US,3.7,501,6,501,7.4,601,10.7,601,7.1,601,12.7,601,34.3,601,49.2,257,-,204015, Miami University-Middletown,4200 E University Blvd,Middletown,-84.35724,39.523776,137,1
+1258,Northern Arizona University,US,6.6,501,6.1,501,4.9,601,13.9,601,3,601,2.6,601,48.9,601,5.3,601,-,105330,NAU,"1900 S Knoles Dr, Babbitt Administrative Center, Room 200",Flagstaff,-111.653724,35.188449,95,1
+1259,Nova Southeastern University,US,2.9,501,4.7,501,15.8,601,3.4,601,3.1,601,4.4,601,23.5,601,9,601,-,136215, ,3301 College Ave,Fort Lauderdale,-80.24248,26.079337,98,1
+1267,Portland State University,US,4.3,501,3.4,501,9.8,601,11.3,601,1,601,6,601,53.5,601,6.6,601,-,209807, ,724 SW Harrison,Portland,-122.686289,45.511601,95,1
+1272,Rutgers University Camden,US,3.8,501,4.2,501,16.4,601,3.9,601,16.6,601,3.2,601,7.5,601,4.1,601,-,186371,"Rutgers, The State University of New Jersey; Rutgers, The State University; Rutgers University; Rutgers U; Rutgers; RutgersCamden; Rutgers, Camden; Rutgers Camden",406 Penn,Camden,-75.12224,39.948064,97,1
+1274,San Francisco State University,US,4,501,2.5,501,5.1,601,5.8,601,4,601,8.2,601,31.7,601,12.1,601,-,122597, ,1600 Holloway Ave,San Francisco,-122.476799,37.721224,95,2
+1292,The University of Texas at Arlington,US,5.7,501,5.9,501,4.7,601,11.8,601,3.8,601,15.6,601,50.4,601,5.4,601,-,228769,UT Arlington,701 S. Nedderman Dr.,Arlington,-97.11296,32.729718,91,1
+1375,University of Central Oklahoma,US,3,501,1.2,501,10.3,601,1.3,601,18.3,600,12.2,601,3.9,601,4.3,601,-,206941,"UCO, Central",100 N University Dr,Edmond,-97.471508,35.6552,106,1
+1382,University of Memphis,US,3,501,6.2,501,14.3,601,10.5,601,3.1,601,3.3,601,41.4,601,10.6,601,-,220862, ,Southern Avenue,Memphis,-89.938068,35.118878,93,1
+1384,University of North Carolina at Charlotte,US,5.6,501,5.1,501,5.3,601,13.1,601,7.2,601,6.1,601,61.4,553,12.6,601,-,199139,UNC Charlotte,9201 University City Blvd,Charlotte,-80.730919,35.306022,95,1
+1385,University of North Carolina at Greensboro,US,3.2,501,5.2,501,8.9,601,10.9,601,8.1,601,2.6,601,40.2,601,4,601,-,199148,UNCG,1400 Spring Garden St,Greensboro,-79.809414,36.068236,95,1
+1391,University of South Alabama (USA),US,5,501,5.6,501,16.3,601,6.7,601,0,0,2,601,19.7,601,4.3,601,-,102094, ,307 N University Blvd,Mobile,-88.178711,30.696033,96,1
+1393,University of Texas El Paso ,US,4.6,501,2.4,501,5.4,601,17.2,594,8.5,601,6.7,601,45.4,601,4.8,601,-,228796,UTEP,500 W. University Ave,El Paso,-106.504098,31.77015,93,1
+1398,Western Washington University,US,3.1,501,5.2,501,7,601,5.5,601,11.3,601,1.4,601,11.2,601,4.2,601,-,237011,Western Washington State College|Western Washington College of Education,516 High Street,Bellingham,-122.485734,48.737812,106,1
+1404,California State University Long Beach,US,3.3,501,4.2,501,7.6,601,0,601,0,0,0,0,0,0,9.6,601,-,110583,Cal State Long Beach,1250 Bellflower Blvd,Long Beach,-118.11204,33.782818,95,2
